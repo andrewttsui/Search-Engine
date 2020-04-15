@@ -1,0 +1,12 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+
+{% for item in data %}
+    <div align="left">
+         <a href={{ item[0] }} target="_blank"><h5> {{ item[1] }} </h5> </a> 
+         <p>{{ item[2] }}...</p>
+    </div>
+{% endfor %}
+
+{% endblock %}
