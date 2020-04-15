@@ -1,8 +1,3 @@
-Andrew Tsui 56869011
-Alvin Truong 43791102
-Ashley Teves 10177429
-Tiffany Liang 51044452
-
 Installing Dependencies
 
 Make sure all libraries/modules are installed before running the program.
